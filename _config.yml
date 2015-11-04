@@ -1,6 +1,6 @@
 name: "Ty's Site"
 favicon: null
-layout_spectrum: 0.026616933522745967
+layout_spectrum: 1
 typography_spectrum: 0.10150258522480726
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#d2c7bb'
     - '#5f8f25'
     - '#263107'
-  brandStrength: 0.9769367347471416
-  lightness: 0.487538201501593
-  saturation: 0.956576817901805
-  rhythmicContrast: 0.016809985740110278
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
